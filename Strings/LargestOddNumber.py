@@ -9,8 +9,6 @@ class LargestOdd:
         return ''
 
        
-
-
 a = LargestOdd()
 b = a.GetLargestODddNumber("0214638")
 
