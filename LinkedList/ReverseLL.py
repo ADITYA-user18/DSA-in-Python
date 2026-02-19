@@ -29,4 +29,4 @@ temp = head
 while temp is not None:
     print(temp.val,end='=>')
     temp = temp.next
-print(None)
+print(None
