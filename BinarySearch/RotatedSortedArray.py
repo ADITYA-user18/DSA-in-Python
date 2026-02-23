@@ -23,11 +23,8 @@ class RotatedSortedArray:
                     left = mid+1
                 else:
                     right = mid-1
-
-
         return -1
     
-
 
 a = RotatedSortedArray()
 b = a.SortedArrayRotated([4,5,6,7,0,1,2],0)
