@@ -10,7 +10,7 @@ class Solution(object):
                 h = min(height[i], height[j])
                 area = width * h
 
-                max_area = max(max_area, area
+                max_area = max(max_area, area)
 
         return max_area
 
