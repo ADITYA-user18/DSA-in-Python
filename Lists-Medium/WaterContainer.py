@@ -12,7 +12,7 @@ class Solution(object):
 
                 max_area = max(max_area, area)
 
-        return max_area
+        return max_are
 
 
 height = [1,8,6,2,5,4,8,3,7]
