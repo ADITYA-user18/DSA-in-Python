@@ -15,6 +15,6 @@ class Solution(object):
         return max_area
 
 
-height = [1,8,6,2,5,4,8,3,7]
+height = [1,8,6,2,5,4,8,3,7
 obj = Solution()
 print("Final Answer:", obj.maxArea(height))
