@@ -17,7 +17,7 @@ class Solution(object):
 
             maxi = max(maxi,curr_sum)
 
-        return maxi
+        return max
         
         
 
