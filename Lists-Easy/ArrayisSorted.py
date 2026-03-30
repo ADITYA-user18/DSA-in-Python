@@ -18,6 +18,6 @@ class Sort:
 
 
 a = Sort()
-b = a.IsSorted([1,2,3])
+b = a.IsSorted([1,2,3]
 
 print(b)
