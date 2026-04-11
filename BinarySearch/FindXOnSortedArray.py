@@ -17,6 +17,6 @@ class BinarySearch:
         return f"No Target Found"
         
 
-a = BinarySearch()
+a = BinarySearch(
 b = a.TargetFinder([2,3,4,5,6,7,8,9],6)
 print(b)
