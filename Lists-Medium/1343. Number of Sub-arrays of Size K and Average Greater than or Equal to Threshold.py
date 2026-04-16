@@ -2,7 +2,6 @@ class Solution(object):
     def numOfSubarrays(self, arr, k, threshold):
         
         curr = 0
-        res = 0
         count = 0
 
 
@@ -13,7 +12,7 @@ class Solution(object):
 
         if first_avg >= threshold:
             count+=1
-            res = first_avg
+            
 
         for i in range(k,len(arr)):
 
@@ -23,7 +22,7 @@ class Solution(object):
 
             if first_avg >= threshold:
                 count+=1
-                res = first_avg
+                
 
         return count
         
