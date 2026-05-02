@@ -1,5 +1,5 @@
 class Solution(object):
-    def findMin(self, nums):
+    def findMin(self, nums)
 
         left = 0
         right = len(nums)-1
