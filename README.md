@@ -36,7 +36,7 @@ Graphs (BFS, DFS, Dijkstra, Prim’s)
 Heaps (Min-Heap, Max-Heap, Priority Queues)
 🔹 2. Algorithms
 
-Sorting: Merge Sort, Quick Sort, Heap Sort
+Sorting: Merge Sort, Quick Sort, Heap Sort 
 
 Searching: Binary Search (And its variations)
 
