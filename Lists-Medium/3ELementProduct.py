@@ -10,4 +10,3 @@ class Solution(object):
 
         return max(prod1,prod2)
        
-
