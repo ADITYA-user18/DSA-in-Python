@@ -12,4 +12,3 @@ class Solution(object):
 
         return dicter.values()
         
-        
