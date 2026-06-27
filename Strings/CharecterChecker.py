@@ -7,4 +7,4 @@ class Solution(object):
         s = s.replace('{}',"")
       return s == ''
 
-        
+    
