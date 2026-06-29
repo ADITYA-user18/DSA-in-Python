@@ -11,5 +11,3 @@ class Solution(object):
             seen[numbers[i]] = i
 
         
-
-        
