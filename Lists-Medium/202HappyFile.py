@@ -12,6 +12,7 @@ class Solution(object):
 
             seen.add(n)
 
+        
     
             string = str(n)
             lister =  list(string)
