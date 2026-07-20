@@ -12,7 +12,7 @@ Roadmap & Topics
 Algorithm Visualizer 
 How to Use  
 Contribution
-📌 Why This Repository?  
+📌 Why This Repository?   
 Feature	Description
 Clean Code	PEP8 compliant, readable Python solutions.
 Progressive Learning	Content flows from Beginner → Advanced.
