@@ -9,7 +9,7 @@ A comprehensive, structured, and interview-ready collection of Data Structures &
 📖 Table of Contents
 Why This Repository?
 Roadmap & Topics
-Algorithm Visualizer
+Algorithm Visualizer 
 How to Use
 Contribution
 📌 Why This Repository?  
