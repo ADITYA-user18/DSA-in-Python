@@ -40,7 +40,7 @@ Sorting: Merge Sort, Quick Sort, Heap Sort
 
 Searching: Binary Search (And its variations)
 
-Recursion: Backtracking, Memoization
+Recursion: Backtracking, Memoization 
 
 DP: 0/1 Knapsack, LCS, LIS, Matrix Chain
 
