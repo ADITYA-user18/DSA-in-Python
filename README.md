@@ -11,7 +11,7 @@ Why This Repository?
 Roadmap & Topics
 Algorithm Visualizer 
 How to Use  
-Contribution
+Contribution 
 📌 Why This Repository?   
 Feature	Description
 Clean Code	PEP8 compliant, readable Python solutions.
