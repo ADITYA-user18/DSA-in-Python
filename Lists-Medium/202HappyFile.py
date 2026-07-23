@@ -10,7 +10,7 @@ class Solution(object):
             if n in seen:
                 return False
 
-            seen.add(n) 
+            seen.add(n)  
 
             string = str(n)
             lister =  list(string)
