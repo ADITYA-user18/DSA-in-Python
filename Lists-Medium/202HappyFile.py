@@ -6,7 +6,7 @@ class Solution(object):
         def hi(n,seen):
             if n==1:
                 return True 
- 
+  
             if n in seen:
                 return False
 
