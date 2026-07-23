@@ -25,7 +25,6 @@ class Solution(object):
 
 
             return hi(total,seen)
-
         return hi(n,seen)
 
 
