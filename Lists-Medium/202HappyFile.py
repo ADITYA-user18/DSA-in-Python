@@ -1,7 +1,7 @@
 class Solution(object):
     def isHappy(self, n):
 
-        seen =  set()
+        seen =  set() 
   
         def hi(n,seen):
             if n==1:
