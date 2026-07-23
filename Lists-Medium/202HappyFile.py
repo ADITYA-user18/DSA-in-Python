@@ -14,7 +14,7 @@ class Solution(object):
 
             string = str(n)
             lister =  list(string)
-
+ 
             for i in range(len(lister)):
                 lister[i]=int(lister[i])
 
