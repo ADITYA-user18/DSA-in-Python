@@ -6,7 +6,7 @@ class DLL:
 
 n1 = DLL(10) 
 n2 = DLL(20) 
-n3 = DLL(30)
+n3 = DLL(30) 
 
  
 nodes = [n1,n2,n3]  
