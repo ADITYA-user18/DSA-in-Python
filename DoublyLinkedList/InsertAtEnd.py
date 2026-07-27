@@ -8,7 +8,7 @@ n1 = DLL(10)
 n2 = DLL(20)
 n3 = DLL(30)
 
-
+ 
 nodes = [n1,n2,n3] 
 
 for i in range(0,len(nodes)-1):
