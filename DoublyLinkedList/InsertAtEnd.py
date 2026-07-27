@@ -5,7 +5,7 @@ class DLL:
         self.next = None
 
 n1 = DLL(10) 
-n2 = DLL(20) 
+n2 = DLL(20)  
 n3 = DLL(30) 
 
  
