@@ -9,7 +9,7 @@ n2 = DLL(20)
 n3 = DLL(30)
 
  
-nodes = [n1,n2,n3] 
+nodes = [n1,n2,n3]  
 
 for i in range(0,len(nodes)-1):
     nodes[i].next = nodes[i+1]
