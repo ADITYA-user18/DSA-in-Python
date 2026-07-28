@@ -7,7 +7,7 @@ class Solution(object):
     def reverseList(self, head):
 
         prev = None
-        curr = head
+        curr = head 
 
         while curr is not None:
             nexter = curr.next
