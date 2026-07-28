@@ -14,7 +14,7 @@ class Solution(object):
             curr.next = prev
             prev = curr
             curr = nexter
-  
+   
  
         return prev
 
