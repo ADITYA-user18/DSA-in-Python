@@ -11,7 +11,7 @@ class Solution(object):
                 return False
 
             seen.add(n)  
-  
+   
             string = str(n) 
             lister =  list(string)
  
