@@ -3,7 +3,7 @@ class Solution(object):
 
         seen =  set() 
    
-        def hi(n,seen):
+        def hi(n,seen): 
             if n==1:
                 return True    
    
