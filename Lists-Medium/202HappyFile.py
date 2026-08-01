@@ -9,7 +9,7 @@ class Solution(object):
    
             if n in seen:
                 return False
- 
+  
             seen.add(n)    
    
             string = str(n) 
