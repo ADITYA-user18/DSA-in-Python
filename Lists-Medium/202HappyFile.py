@@ -7,7 +7,7 @@ class Solution(object):
             if n==1:
                 return True   
    
-            if n in seen:
+            if n in seen: 
                 return False
   
             seen.add(n)    
